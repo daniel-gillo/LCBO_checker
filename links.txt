@@ -1,0 +1,3 @@
+# All Lines beginning "#" are ignored
+http://www.lcbo.com/lcbo/product/smirnoff-vodka/67
+#http://www.lcbo.com/lcbo/product/canadian-club-whisky/42
