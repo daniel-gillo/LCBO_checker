@@ -1,4 +1,9 @@
 # LCBO_checker
+
+#Deprecated!
+
+#### LCBO changed their website recently, now their AJAX commands and site structure are completely different.
+
 Checks if a rare item is in stock at the LCBO
 
 Has two options of notifying you, either via email, or creating a file on your desktop.
